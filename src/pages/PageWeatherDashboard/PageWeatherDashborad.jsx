@@ -9,22 +9,22 @@ const citys = [
     { city: "Poltava", name: "Полтава" },
     { city: "Kharkiv", name: "Харьков" },
     { city: "Lugansk", name: "Луганск" }, //
-    { city: "Smooth", name: "Ровно" },
+    { city: "Rivne", name: "Ровно" },
     { city: "Kherson", name: "Херсон" },
     { city: "Donetsk", name: "Донецк" }, //
     { city: "Lutsk", name: "Луцк" },
-    { city: "Kamelnitskiy", name: "Хмельницкий" },
+    { city: "Khmelnytskyi", name: "Хмельницкий" },
     { city: "Zhytomyr", name: "Житомир" },
     { city: "Lviv", name: "Львов" },
-    { city: "Sumi", name: "Сумы" },
-    { city: "Cherkassi", name: "Черкассы" },
-    { city: "Zaporozhe", name: "Запорожье" },
+    { city: "Sumy", name: "Сумы" },
+    { city: "Cherkassy", name: "Черкассы" },
+    { city: "Zaporizhia", name: "Запорожье" },
     { city: "Nikolaev", name: "Николаев" }, //
     { city: "Ternopil", name: "Тернополь" },
-    { city: "Chernigov", name: "Чернигов" },
+    { city: "Chernigiiv", name: "Чернигов" },
     { city: "Odessa", name: "Одесса" },
     { city: "Uzhhorod", name: "Ужгород" },
-    { city: "Chernovitsy", name: "Черновцы" },
+    { city: "Chernivtsi", name: "Черновцы" },
     { city: "Kyiv", name: "Киев" },
   ];
 
